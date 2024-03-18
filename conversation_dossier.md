@@ -1,9 +1,9 @@
 # Conversation Dossier (CD)
 <p align="center">
     <a href="https://github.com/zeals-co-ltd/conversation-dossier" alt="Repo">
-        <img src="https://badgen.net/#static/repo/conversation-dossier/green?icon=github" /></a>
+        <img src="https://badgen.net/static/repo/conversation-dossier/green?icon=github" /></a>
     <a href="https://github.com/zeals-co-ltd/zero-api/tree/master/content/02_domains/conversation_dossier" alt="Docs">
-        <img src="https://badgen.net/#static/repo/docs/cyan?icon=github" /></a>
+        <img src="https://badgen.net/static/repo/docs/cyan?icon=github" /></a>
     <a href="https://github.com/zeals-co-ltd/conversation-dossier" alt="Converage">
         <img src="https://github.com/zeals-co-ltd/conversation-dossier/blob/feat/ZMT-1066-rename-step/.badges/coverage.svg" /></a>
 </p>
